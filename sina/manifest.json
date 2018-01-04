@@ -1,0 +1,21 @@
+{
+  "name": "ScopeTest",
+  "short_name": "scope",
+  "icons": [{
+    "src": "../images/try_57x57_v1.png",
+      "sizes": "57x57",
+      "type": "image/png"
+    }, {
+      "src": "../images/try_114x114_v1.png",
+      "sizes": "114x114",
+      "type": "image/png"
+    }, {
+      "src": "../images/try_144x144_v1.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#3E4EB8",
+  "theme_color": "#2F3BA2"
+}
