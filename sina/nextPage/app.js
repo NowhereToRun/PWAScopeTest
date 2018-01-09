@@ -71,7 +71,7 @@
         console.log('Service Worker Registered');
       })
       .catch(function(err) {
-        console.log('Service Worker Failed. ');
+        console.log('Service Worker Failed. ', err);
       });
     showNotification();
   }
