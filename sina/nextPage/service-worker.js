@@ -17,7 +17,7 @@ var cacheName = 'sinaHome-static-v1';
 var filesToCache = [
   './',
   './index.html',
-  './js/app.js',
+  './app.js',
   '../css/homev8.min.css',
   '../images/try_57x57_v1.png',
   '../images/try_114x114_v1.png',
