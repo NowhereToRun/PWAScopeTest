@@ -15,14 +15,14 @@
 var dataCacheName = 'sinaHome-next-page-v1';
 var cacheName = 'sinaHome-static-v1';
 var filesToCache = [
-  './',
-  './index.html',
+  '../',
+  '../index.html',
   './app.js',
-  '../css/homev8.min.css',
-  '../images/try_57x57_v1.png',
-  '../images/try_114x114_v1.png',
-  '../images/try_144x144_v1.png',
-  '../images/bg.jpg'
+  '../../css/homev8.min.css',
+  '../../images/try_57x57_v1.png',
+  '../../images/try_114x114_v1.png',
+  '../../images/try_144x144_v1.png',
+  '../../images/bg.jpg'
 ];
 
 self.addEventListener('install', function(e) {
